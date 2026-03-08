@@ -10,8 +10,8 @@ const char* ssid = "Amk3";
 const char* password = "amk12345";
 
 // ---------------------- ThingSpeak ------------------------
-unsigned long channelNumber = 3278894;
-const char* writeAPIKey = "GSAP796F6JQD166L";
+unsigned long channelNumber = ;
+const char* writeAPIKey = "";
 
 // ---------------------- DHT11 Setup -----------------------
 #define DHTPIN 4
